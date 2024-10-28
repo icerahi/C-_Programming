@@ -1,0 +1,57 @@
+#Using Directive and Declaration
+#Variable Declaration and Initialization
+#Using Variables with cout
+#User Input with cin
+#Conventions and Style Guides
+# Intro to Creating Custom Functions 
+#integral Data Types, sizeof, limit
+#char Data Type
+# Escape Sequences
+#bool Data Type
+#floating type data type
+#constant, enum
+#numaric function, round,floor, ceil
+#string class
+#getline()
+#string modifier method
+#string operatiom methods
+#guessing_game
+#loop
+#array, array print, array data store
+#vector
+#refactor game with vector
+#array STL
+#refactory game with stl array
+#range based for loop
+#file i/o input and out file writig reading
+#storing best score to guessing game(in a file)
+#functions and constructors(// function//method// static method// constructor    )
+#game refactor and testing example
+#multidimensional arrays and nested vector
+#const modifier
+#pass by reference and passby value.
+#swap function with pass by reference
+#intro to function overloading concept_video
+#function overloading examples
+#function overloading examples using struct
+#default arguments
+# Intro to multifile Compilation
+#multifile compilation
+#makefiles - theory
+#create a simple makefile
+# Intro to namespaces.
+#creating a namespaces
+#intro to function templates  theory
+#create a function template
+#overloading function templates
+#intro to object oriented programming
+#intro struct 
+#create a struct
+#class and object
+#intro to class
+#working with objects
+#Intro to contructor 
+#contructors and destructors
+#Encapsulation - getters and setters
+#static data member
+#Intro to operator overloading 
